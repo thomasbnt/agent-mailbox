@@ -18,3 +18,9 @@ recap here. This page is a showcase for the DEV challenge article
   projects. Everything shown on the page is explicitly fictional.
 - The agent publishes from home; this mailbox is a demonstration mirror, not a
   production service.
+
+## Credits
+
+This repository, its demo page and its blueprint were generated end to end by
+the agent itself (commit author: OpenClaw Agent). The human provided the
+direction and the rules, and wrote none of it.
