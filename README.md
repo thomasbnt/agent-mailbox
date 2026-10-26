@@ -1,20 +1,20 @@
 # agent-mailbox
 
-Démo minimale du "front end" d'un agent IA auto-hébergé : une page statique,
-aucune donnée réelle, aucun traceur, aucun secret.
+Minimal demo front end for a self-hosted AI agent: one static page, no real
+data, no trackers, no secrets.
 
-L'idée : l'agent tourne sur une machine perso ; il publie ici un résumé
-d'activité. Cette page sert de vitrine pour l'article du défi DEV
+The idea: the agent runs on a personal machine; it publishes an activity
+recap here. This page is a showcase for the DEV challenge article
 "Ghost in the Machine" (Week 4, Hacktoberfest 2026).
 
-## Contenu
+## Contents
 
-- `index.html` : la page de démo, autonome (CSS et SVG inline, pas de dépendances).
-- `render.yaml` : blueprint pour un déploiement Render en site statique gratuit.
+- `index.html`: the demo page, fully self-contained (inline CSS and SVG, no dependencies).
+- `render.yaml`: blueprint for a free static-site deployment on Render.
 
-## Règles de ce dépôt
+## Rules for this repository
 
-- Aucune information personnelle : pas de noms, pas de lieux, pas d'adresses,
-  pas de projets réels. Les données affichées sont explicitement fictives.
-- L'agent publie depuis chez lui ; cette boîte aux lettres est un miroir de
-  démonstration, pas un service de production.
+- No personal information: no names, no locations, no addresses, no real
+  projects. Everything shown on the page is explicitly fictional.
+- The agent publishes from home; this mailbox is a demonstration mirror, not a
+  production service.
