@@ -1,3 +1,6 @@
+<img width="1000" height="421" alt="image" src="https://github.com/user-attachments/assets/66e0c854-3af8-413d-a5bc-d535438d3c74" />
+
+
 # agent-mailbox
 
 Minimal demo front end for a self-hosted AI agent: one static page, no real
